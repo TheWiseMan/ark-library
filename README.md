@@ -15,9 +15,16 @@ The main categories have been chosen as such:
 2. Life Sciences
 3. Formal Sciences
 	1. Mathematics
-	2. Information Science
-	3. Computer Science
+		1. Algebra
+		2. Geometry
+	3. Information Science
+	4. Computer Science
 4. Social Sciences
 	1. Laws and norms
 	2. 
 5. Culture
+	1. History
+	2. Painting
+	3. Music
+	4. Sculpture/Potery
+	5. 
