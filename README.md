@@ -1,4 +1,4 @@
-# The Arch Library
+# The Ark Library
 
 > A classification of human knowledge
 
@@ -15,8 +15,8 @@ The main categories have been chosen as such:
 2. Life Sciences
 3. Formal Sciences
 	1. Mathematics
-		1. Algebra
-		2. Geometry
+		1. Linear Algebra
+		2. 2D Euclidiean Geometry
 	3. Information Science
 	4. Computer Science
 4. Social Sciences
