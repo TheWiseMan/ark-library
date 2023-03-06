@@ -1,4 +1,4 @@
-# The Book
+# The Arch Library
 
 > A classification of human knowledge
 
@@ -21,10 +21,12 @@ The main categories have been chosen as such:
 	4. Computer Science
 4. Social Sciences
 	1. Laws and norms
-	2. 
+	2. Economics
+	3. Anthropogeography
+	4. Linguistics
 5. Culture
 	1. History
 	2. Painting
 	3. Music
 	4. Sculpture/Potery
-	5. 
+	5. Religion
