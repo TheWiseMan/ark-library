@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d09af7fa6bffdf0",
+        "id": "3a746b79b91acd03",
         "type": "tabs",
         "children": [
           {
-            "id": "49da2781aaacad3e",
+            "id": "065ef93430404cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "000000-0000-readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "000000-0000-readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "000000-0000-readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010000-0000-physical_sciences.md"
+                "file": "000000-0000-readme.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49da2781aaacad3e",
+  "active": "065ef93430404cf1",
   "lastOpenFiles": [
-    "020000-0000.md",
     "010000-0000-physical_sciences.md",
     "000000-0000-readme.md",
+    "Physical Sciences.md",
+    "020000-0000.md",
     "Untitled.canvas",
     "000000-0000.md",
     "010100-0000-classical-mechanics.md",
