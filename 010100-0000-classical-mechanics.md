@@ -7,6 +7,3 @@
 
 Mechanics is the field of study of the movement of objects.
 It includes the movement of solids, their deformations, the flow of liquids...
-[test](000000-0000)
-
-☺

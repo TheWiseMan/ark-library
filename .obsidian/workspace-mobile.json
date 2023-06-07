@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020000-0000-life_sciences.md",
+                "file": "010100-0000-classical-mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "020000-0000-life_sciences.md",
+            "file": "010100-0000-classical-mechanics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "020000-0000-life_sciences.md",
+            "file": "010100-0000-classical-mechanics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "020000-0000-life_sciences.md"
+            "file": "010100-0000-classical-mechanics.md"
           }
         }
       }
@@ -133,19 +133,19 @@
   },
   "active": "b6697a147de83afc",
   "lastOpenFiles": [
+    "010200-0000-electromagnetism.md",
+    "000000-0000-readme.md",
+    "020000-0000-life_sciences.md",
     "010000-0000-physical_sciences.md",
     "010500-0000.md",
     "010100-0000-classical-mechanics.md",
     "README.md",
-    "000000-0000-readme.md",
     "050000-0000-culture.md",
-    "010200-0000-electromagnetism.md",
     "/010200-0000-electromagnetism.md",
     "/010000-0000-physical_sciences.md",
     "/000000-0000-readme.md",
     "040000-0000-social_sciences.md",
     "030000-0000-formal_sciences.md",
-    "020000-0000-life_sciences.md",
     "010500-0000-chemistry.md",
     "010000-0002-si_units.md",
     "010000-0001-units_systems.md"
