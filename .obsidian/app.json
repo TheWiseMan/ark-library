@@ -4,5 +4,10 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheckLanguages": [
+    "fr",
+    "en"
+  ],
+  "spellcheck": true
 }
