@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
