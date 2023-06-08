@@ -9,5 +9,6 @@
     "fr",
     "en"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "useMarkdownLinks": true
 }
