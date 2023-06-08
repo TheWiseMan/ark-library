@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "030000-0000-formal_sciences.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "010000-0000-physical_sciences.md",
+            "file": "030000-0000-formal_sciences.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "010000-0000-physical_sciences.md",
+            "file": "030000-0000-formal_sciences.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "010000-0000-physical_sciences.md"
+            "file": "030000-0000-formal_sciences.md"
           }
         }
       }
@@ -131,10 +131,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2a3134ecac37615",
+  "active": "b6697a147de83afc",
   "lastOpenFiles": [
-    "010300-0000-relativity-theory.md",
+    "030100-0000-number_theory.md",
+    "030000-0000-formal_sciences.md",
+    "040000-0000-social_sciences.md",
+    "010100-0000-classical_mechanics.md",
+    "010800-0000-earth_science.md",
+    "010400-0000-thermodynamics.md",
+    "/030000-0000-formal_sciences.md",
+    "/010800-0000-earth_science.md",
+    "/010400-0000-thermodynamics.md",
+    "/010000-0000-physical_sciences.md",
+    "/000000-0000-readme.md",
     "010000-0000-physical_sciences.md",
+    "010300-0000-relativity_theory.md",
+    "/010300-0000-relativity_theory.md",
+    "/010100-0000-classical_mechanics.md",
+    "010300-0000-relativity-theory.md",
     "020000-0000-life_sciences.md",
     "010300-0000.md",
     "010100-0000-classical-mechanics.md",
@@ -144,12 +158,6 @@
     "README.md",
     "050000-0000-culture.md",
     "/010200-0000-electromagnetism.md",
-    "/010000-0000-physical_sciences.md",
-    "/000000-0000-readme.md",
-    "040000-0000-social_sciences.md",
-    "030000-0000-formal_sciences.md",
-    "010500-0000-chemistry.md",
-    "010000-0002-si_units.md",
-    "010000-0001-units_systems.md"
+    "010500-0000-chemistry.md"
   ]
 }
