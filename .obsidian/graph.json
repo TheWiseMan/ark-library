@@ -5,13 +5,45 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
+<<<<<<< HEAD
       "query": "physical file:01",
+=======
+      "query": "file:01",
+>>>>>>> origin/main
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 255
+      }
+    },
+    {
+      "query": "file:02",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "file:03",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:04",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "file:05",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
       }
     },
     {
@@ -50,7 +82,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -60,6 +92,11 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.7980042678440644,
   "close": false
+=======
+  "scale": 1.2976016398887804,
+  "close": true
+>>>>>>> origin/main
 }

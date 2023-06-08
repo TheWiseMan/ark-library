@@ -30,3 +30,5 @@ The main categories have been chosen as such:
 	3. Music
 	4. Sculpture/Potery
 	5. Religion
+
+You should start with [[000000-0000-readme]]

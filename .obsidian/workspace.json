@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "010000-0002-si_units.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "17f49320eab0fc5f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b00eed7d4a0d4467",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "010000-0002-si_units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "010000-0002-si_units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "010000-0002-si_units.md"
+              }
+            }
+          },
+          {
+            "id": "6893656193e6fd74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 675.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00eed7d4a0d4467",
+  "active": "065ef93430404cf1",
   "lastOpenFiles": [
-    "040000-0000-social_sciences.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
-    "010100-0000-classical-mechanics.md",
     "010000-0000-physical_sciences.md",
+    "010500-0000.md",
+    "040000-0000-social_sciences.md",
+    "010100-0000-classical-mechanics.md",
     "010000-0001-units_systems.md",
     "010000-0002-si_units.md",
     "010200-0000-electromagnetism.md",
