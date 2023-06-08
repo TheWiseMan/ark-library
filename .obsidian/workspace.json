@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "000000-0000-readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "000000-0000-readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "000000-0000-readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010000-0000-physical_sciences.md"
+                "file": "000000-0000-readme.md"
               }
             }
           },
@@ -156,14 +156,16 @@
   },
   "active": "065ef93430404cf1",
   "lastOpenFiles": [
-    "010000-0001-units_systems.md",
+    "010800-0000-earth_science.md",
+    "010400-0000-thermodynamics.md",
+    "010000-0002-si_units.md",
     "010000-0000-physical_sciences.md",
+    "010000-0001-units_systems.md",
     "010300-0000-relativity_theory.md",
     "010100-0000-classical_mechanics.md",
     "000000-0000-readme.md",
     "010000-0000-physical-sciences.md",
     "010200-0000-electromagnetism.md",
-    "010000-0002-si_units.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "010500-0000.md",
