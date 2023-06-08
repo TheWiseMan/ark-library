@@ -13,31 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "6a61d191d9602901"
+            }
           }
         ]
       },
       {
-        "id": "61b4af4073725c51",
+        "id": "17f49320eab0fc5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5f3556ba24021d",
+            "id": "b00eed7d4a0d4467",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010000-0000-physical_sciences.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "6a61d191d9602901"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -105,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010000-0000-physical_sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "010000-0000-physical_sciences.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,23 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b5f3556ba24021d",
+  "active": "b00eed7d4a0d4467",
   "lastOpenFiles": [
-    "010200-0000-electromagnetism.md",
+    "040000-0000-social_sciences.md",
+    "README.md",
+    "010100-0000-classical-mechanics.md",
     "010000-0000-physical_sciences.md",
+    "010000-0001-units_systems.md",
+    "010000-0002-si_units.md",
+    "010200-0000-electromagnetism.md",
     "000000-0000-readme.md",
     "Physical Sciences.md",
     "020000-0000.md",
     "Untitled.canvas",
     "000000-0000.md",
-    "010100-0000-classical-mechanics.md",
-    "010000-0002-si_units.md",
-    "010000-0001-units_systems.md",
-    "README.md",
     "020000-0000-life_sciences.md",
     "010500-0000-chemistry.md",
     "030000-0000-formal_sciences.md",
-    "040000-0000-social_sciences.md",
     "050000-0000-culture.md",
     "2023-06-07.md",
     "000000-0000-readme.txt",

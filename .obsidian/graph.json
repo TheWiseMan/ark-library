@@ -8,10 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:010000",
+      "query": "physical file:01",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "life file:02",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "formal file:03",
+      "color": {
+        "a": 1,
+        "rgb": 9488924
+      }
+    },
+    {
+      "query": "social file:04",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "culture file:05",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -25,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9093666796167522,
-  "close": true
+  "scale": 0.7980042678440644,
+  "close": false
 }
