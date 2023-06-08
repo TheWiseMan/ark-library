@@ -7,6 +7,6 @@ Physical sciences are a part of natural sciences that studies non-living systems
 - [Theory of relativity](010300-0000-relativity_theory.md)
 - [Thermodynamics](010400-0000-thermodynamics.md)
 - [Chemistry](010500-0000-chemistry.md)
-- [Quantum Mechanics](010600-0000-quantum-mechanics.md)
+- [Quantum Mechanics](010600-0000-quantum_mechanics.md)
 - [Astronomy](010700-0000-astronomy.md)
 - [Earth Science](010800-0000-earth-science.md)
