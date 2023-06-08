@@ -11,12 +11,8 @@
             "id": "065ef93430404cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000000-0000-readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000000-0000-readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000000-0000-readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000000-0000-readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,11 +148,11 @@
   },
   "active": "065ef93430404cf1",
   "lastOpenFiles": [
+    "000000-0000-readme.md",
     "030000-0000-formal_sciences.md",
     "040000-0000-social_sciences.md",
     "010000-0001-units_systems.md",
     "010000-0000-physical_sciences.md",
-    "000000-0000-readme.md",
     "010800-0000-earth_science.md",
     "010400-0000-thermodynamics.md",
     "010000-0002-si_units.md",
