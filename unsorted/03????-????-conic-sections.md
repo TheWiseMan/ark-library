@@ -2,7 +2,7 @@
 
 CONE_ANGLE := INPUT {angle between the surface of the cone and its axis}
 
-?CUTTING_PLANE_ANGLE
+CUTTING_PLANE_ANGLE 
 
 ## Circle
 
