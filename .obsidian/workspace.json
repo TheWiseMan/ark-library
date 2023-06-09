@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "library/030400-0000-geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "library/030400-0000-geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "library/030400-0000-geometry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +179,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "758aeade47b8eb55",
+  "active": "c3c93d957a0306d8",
   "lastOpenFiles": [
+    "library/030400-0000-geometry.md",
     "library/030400-0005-plane.md",
     "unsorted/03????-????-conic-sections.md",
     "library/030400-0003-point.md",
@@ -193,7 +190,6 @@
     "library/030400-0002-objects.md",
     "library/030400-0001-axioms.md",
     "library/000000-0000-readme.md",
-    "library/030400-0000-geometry.md",
     "library",
     "library/030500-0000-analysis.md",
     "library/030000-0000-formal_sciences.md",
