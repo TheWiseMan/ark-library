@@ -8,35 +8,35 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "\"science\"",
+      "query": "file:/^01/",
       "color": {
         "a": 1,
         "rgb": 5984992
       }
     },
     {
-      "query": "file:02",
+      "query": "file:/^02/",
       "color": {
         "a": 1,
         "rgb": 6021202
       }
     },
     {
-      "query": "path:/03",
+      "query": "file:/^03/",
       "color": {
         "a": 1,
         "rgb": 13245476
       }
     },
     {
-      "query": "file:04",
+      "query": "file:/^04/",
       "color": {
         "a": 1,
         "rgb": 13688914
       }
     },
     {
-      "query": "file:05",
+      "query": "file:/^05/",
       "color": {
         "a": 1,
         "rgb": 14701276
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7980042678440644,
-  "close": false
+  "close": true
 }

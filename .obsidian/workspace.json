@@ -11,8 +11,24 @@
             "id": "54e72ea93d588c3d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unsorted/03????-????-conic-sections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02a8fab1f99c8356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "030400-0000-geometry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "030400-0000-geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "030400-0000-geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "030400-0000-geometry.md"
+              }
             }
           },
           {
@@ -187,15 +208,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "54e72ea93d588c3d",
+  "active": "02a8fab1f99c8356",
   "lastOpenFiles": [
-    "030000-0000-formal_sciences.md",
-    "030500-0000-analysis.md",
+    "030400-0001-axioms.md",
+    "unsorted/03????-????-conic-sections.md",
     "030400-0000-geometry.md",
+    "030500-0000-analysis.md",
+    "030000-0000-formal_sciences.md",
     "030300-0000-algebra.md",
     "030100-0000-logic.md",
     "030200-0000-number_theory.md",
-    "unsorted/03????-????-conic-sections.md",
     "010200-0000-electromagnetism.md",
     "000000-0000-readme.md",
     "010000-0000-physical_sciences.md",
@@ -215,7 +237,6 @@
     "conflict-files-obsidian-git.md",
     "README.md",
     "010500-0000.md",
-    "Physical Sciences.md",
     "Untitled.canvas",
     "000000-0000-readme.txt",
     "010000-0000-physical_sciences.txt",
