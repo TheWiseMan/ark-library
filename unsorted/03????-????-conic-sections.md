@@ -1,5 +1,5 @@
 # Conic sections (03????-????)
-#circle #ellipse #parabola #hyperbola #eccentricity
+#circle #ellipse #parabola #hyperbola #eccentricity #curve
 
 A conic is the curve obtained as the intersection of a plane, called the _cutting plane_, with the surface of a double cone (a cone with two _nappes_).
 
