@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unsorted/Untitled.md",
+                "file": "library/030400-0000-geometry.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unsorted/Untitled.md",
+                "file": "library/030400-0000-geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unsorted/Untitled.md",
+                "file": "library/030400-0000-geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unsorted/Untitled.md"
+                "file": "library/030400-0000-geometry.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "758aeade47b8eb55",
   "lastOpenFiles": [
+    "library/030400-0005-plane.md",
     "unsorted/03????-????-conic-sections.md",
-    "unsorted/Untitled.md",
     "library/030400-0003-point.md",
     "README.md",
     "library/030400-0004-line.md",
