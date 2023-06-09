@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "unsorted/03????-????-conic-sections.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -173,19 +173,19 @@
   },
   "active": "54e72ea93d588c3d",
   "lastOpenFiles": [
-    "unsorted/03????-????-conic-sections.md",
     "010000-0000-physical_sciences.md",
+    "010000-0001-units_systems.md",
+    "040000-0000-social_sciences.md",
+    "010500-0000-chemistry.md",
+    "010100-0000-classical_mechanics.md",
+    "unsorted/03????-????-conic-sections.md",
     "000000-0000-readme.md",
     "030000-0000-formal_sciences.md",
-    "040000-0000-social_sciences.md",
     "050000-0000-culture.md",
-    "010100-0000-classical_mechanics.md",
     "010400-0000-thermodynamics.md",
     "010200-0000-electromagnetism.md",
     "010000-0002-si_units.md",
     "010700-0000-astronomy.md",
-    "010500-0000-chemistry.md",
-    "010000-0001-units_systems.md",
     "unsorted",
     "010600-0000-quantum_mechanics.md",
     "010800-0000-earth_science.md",
