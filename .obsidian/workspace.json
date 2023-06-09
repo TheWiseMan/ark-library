@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md",
+                "file": "040000-0000-social_sciences.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md",
+                "file": "040000-0000-social_sciences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md",
+                "file": "040000-0000-social_sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md"
+                "file": "040000-0000-social_sciences.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,25 +171,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6893656193e6fd74",
+  "active": "54e72ea93d588c3d",
   "lastOpenFiles": [
-    "010000-0001-units_systems.md",
+    "050000-0000-culture.md",
     "unsorted/03????-????-conic-sections.md",
-    "010000-0002-si_units.md",
-    "010000-0000-physical_sciences.md",
     "000000-0000-readme.md",
     "010100-0000-classical_mechanics.md",
-    "040000-0000-social_sciences.md",
-    "050000-0000-culture.md",
+    "010400-0000-thermodynamics.md",
     "030000-0000-formal_sciences.md",
+    "010200-0000-electromagnetism.md",
+    "010000-0000-physical_sciences.md",
+    "010000-0002-si_units.md",
+    "010700-0000-astronomy.md",
+    "010500-0000-chemistry.md",
+    "010000-0001-units_systems.md",
+    "040000-0000-social_sciences.md",
     "unsorted",
     "010600-0000-quantum_mechanics.md",
-    "010700-0000-astronomy.md",
     "010800-0000-earth_science.md",
-    "010400-0000-thermodynamics.md",
     "010300-0000-relativity_theory.md",
     "010000-0000-physical-sciences.md",
-    "010200-0000-electromagnetism.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "010500-0000.md",
@@ -198,7 +199,6 @@
     "Untitled.canvas",
     "000000-0000.md",
     "020000-0000-life_sciences.md",
-    "010500-0000-chemistry.md",
     "2023-06-07.md",
     "000000-0000-readme.txt",
     "010000-0000-physical_sciences.txt",
