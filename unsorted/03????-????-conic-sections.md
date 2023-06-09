@@ -9,8 +9,6 @@ CIRCLE_ECCENTRICITY := 0
 
 ## Ellipse
 
-
-
 ## Parabola
 
 ## Hyperbola
