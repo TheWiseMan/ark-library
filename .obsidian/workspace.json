@@ -11,8 +11,12 @@
             "id": "065ef93430404cf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unsorted/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unsorted/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unsorted/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "unsorted/Untitled.md"
+              }
             }
           },
           {
@@ -155,8 +163,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9195ec6e3d7552d9",
+  "active": "065ef93430404cf1",
   "lastOpenFiles": [
+    "unsorted/Untitled.md",
     "unsorted",
     "010000-0000-physical_sciences.md",
     "010600-0000-quantum_mechanics.md",
@@ -191,7 +200,6 @@
     "010500-0000-chemistry.txt",
     "020000-0000-life_sciences.txt",
     "030000-0000-formal_sciences.txt",
-    "040000-0000-social_sciences.txt",
-    "050000-0000-culture.txt"
+    "040000-0000-social_sciences.txt"
   ]
 }
