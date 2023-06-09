@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,12 +172,12 @@
   },
   "active": "54e72ea93d588c3d",
   "lastOpenFiles": [
+    "unsorted/03????-????-conic-sections.md",
     "010000-0000-physical_sciences.md",
     "000000-0000-readme.md",
     "030000-0000-formal_sciences.md",
     "040000-0000-social_sciences.md",
     "050000-0000-culture.md",
-    "unsorted/03????-????-conic-sections.md",
     "010100-0000-classical_mechanics.md",
     "010400-0000-thermodynamics.md",
     "010200-0000-electromagnetism.md",
