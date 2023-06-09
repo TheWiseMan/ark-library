@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excentricity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "54e72ea93d588c3d",
+  "active": "4f289c8e59cf3e30",
   "lastOpenFiles": [
     "unsorted/03????-????-conic-sections.md",
     "010000-0000-physical_sciences.md",
