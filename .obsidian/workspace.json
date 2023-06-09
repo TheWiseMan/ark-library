@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md",
+                "file": "030000-0000-formal_sciences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7fa02e6b9abc49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03010000-0000-logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018018fb75727491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03010000-0000-logic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md",
+                "file": "03010000-0000-logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md",
+                "file": "03010000-0000-logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unsorted/03????-????-conic-sections.md"
+                "file": "03010000-0000-logic.md"
               }
             }
           },
@@ -171,19 +196,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "54e72ea93d588c3d",
+  "active": "b7fa02e6b9abc49e",
   "lastOpenFiles": [
+    "030100-0000-number_theory.md",
+    "030000-0000-formal_sciences.md",
+    "03010000-0000-logic.md",
+    "unsorted/03????-????-conic-sections.md",
+    "010200-0000-electromagnetism.md",
+    "000000-0000-readme.md",
     "010000-0000-physical_sciences.md",
     "010000-0001-units_systems.md",
     "040000-0000-social_sciences.md",
     "010500-0000-chemistry.md",
     "010100-0000-classical_mechanics.md",
-    "unsorted/03????-????-conic-sections.md",
-    "000000-0000-readme.md",
-    "030000-0000-formal_sciences.md",
     "050000-0000-culture.md",
     "010400-0000-thermodynamics.md",
-    "010200-0000-electromagnetism.md",
     "010000-0002-si_units.md",
     "010700-0000-astronomy.md",
     "unsorted",
@@ -199,7 +226,6 @@
     "Untitled.canvas",
     "000000-0000.md",
     "020000-0000-life_sciences.md",
-    "2023-06-07.md",
     "000000-0000-readme.txt",
     "010000-0000-physical_sciences.txt",
     "010000-0001-units_systems.txt",

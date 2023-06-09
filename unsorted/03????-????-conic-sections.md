@@ -5,6 +5,10 @@ A conic is the curve obtained as the intersection of a plane, called the _cuttin
 
 ## Circle
 
+A circle is defined as a shape consisting of all points in a plane that are at a given distance from a single point called the center of the circle.
+
+
+
 CIRCLE_ECCENTRICITY := 0
 
 ## Ellipse
