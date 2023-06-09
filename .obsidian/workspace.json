@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "065ef93430404cf1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "54e72ea93d588c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030000-0000-formal_sciences.md",
+                "file": "unsorted/03????-????-conic-sections.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5
   },
   "right": {
     "id": "c89e00d1bcb97128",
@@ -88,11 +80,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4cf6815159f5926d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "f1ae17e442c2b6ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unsorted/03????-????-conic-sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unsorted/03????-????-conic-sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "unsorted/03????-????-conic-sections.md"
+              }
             }
           },
           {
@@ -150,11 +154,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,22 +171,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "065ef93430404cf1",
+  "active": "6893656193e6fd74",
   "lastOpenFiles": [
+    "010000-0001-units_systems.md",
     "unsorted/03????-????-conic-sections.md",
-    "030000-0000-formal_sciences.md",
-    "000000-0000-readme.md",
+    "010000-0002-si_units.md",
     "010000-0000-physical_sciences.md",
+    "000000-0000-readme.md",
+    "010100-0000-classical_mechanics.md",
+    "040000-0000-social_sciences.md",
+    "050000-0000-culture.md",
+    "030000-0000-formal_sciences.md",
     "unsorted",
     "010600-0000-quantum_mechanics.md",
     "010700-0000-astronomy.md",
-    "040000-0000-social_sciences.md",
-    "010000-0001-units_systems.md",
     "010800-0000-earth_science.md",
     "010400-0000-thermodynamics.md",
-    "010000-0002-si_units.md",
     "010300-0000-relativity_theory.md",
-    "010100-0000-classical_mechanics.md",
     "010000-0000-physical-sciences.md",
     "010200-0000-electromagnetism.md",
     "conflict-files-obsidian-git.md",
@@ -194,7 +199,6 @@
     "000000-0000.md",
     "020000-0000-life_sciences.md",
     "010500-0000-chemistry.md",
-    "050000-0000-culture.md",
     "2023-06-07.md",
     "000000-0000-readme.txt",
     "010000-0000-physical_sciences.txt",
