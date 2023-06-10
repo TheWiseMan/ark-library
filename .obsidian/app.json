@@ -10,5 +10,6 @@
     "en"
   ],
   "spellcheck": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "/res"
 }

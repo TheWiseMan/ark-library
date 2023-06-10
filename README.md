@@ -31,4 +31,4 @@ The main categories have been chosen as such:
 	4. Sculpture/Potery
 	5. Religion
 
-You should start with [[000000-0000-readme]]
+You should start with [[library/000000-0000-readme]]
