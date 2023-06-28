@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "file:/^02/",
+      "query": "file:02",
       "color": {
         "a": 1,
         "rgb": 6021202
@@ -29,17 +29,24 @@
       }
     },
     {
-      "query": "file:/^04/",
+      "query": "file:04",
       "color": {
         "a": 1,
         "rgb": 13688914
       }
     },
     {
-      "query": "file:/^05/",
+      "query": "file:05",
       "color": {
         "a": 1,
         "rgb": 14701276
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -48,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.294270833333333,
-  "repelStrength": 1.82291666666667,
-  "linkStrength": 0.716145833333333,
-  "linkDistance": 48,
-  "scale": 0.7980042678440644,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.49581209188108866,
   "close": true
 }
